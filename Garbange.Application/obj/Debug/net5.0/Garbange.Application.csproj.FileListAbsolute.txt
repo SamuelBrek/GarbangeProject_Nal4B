@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Application\bin\Debug\net5.0\Garbange.Application.deps.json
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Application\bin\Debug\net5.0\Garbange.Application.dll
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Application\bin\Debug\net5.0\ref\Garbange.Application.dll
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Application\bin\Debug\net5.0\Garbange.Application.pdb
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Application\obj\Debug\net5.0\Garbange.Application.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Application\obj\Debug\net5.0\Garbange.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Application\obj\Debug\net5.0\Garbange.Application.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Application\obj\Debug\net5.0\Garbange.Application.AssemblyInfo.cs
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Application\obj\Debug\net5.0\Garbange.Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Application\obj\Debug\net5.0\Garbange.Application.dll
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Application\obj\Debug\net5.0\ref\Garbange.Application.dll
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Application\obj\Debug\net5.0\Garbange.Application.pdb
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Application\bin\Debug\net5.0\Garbange.Application.runtimeconfig.json
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Application\bin\Debug\net5.0\Garbange.Application.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Application\obj\Debug\net5.0\Garbange.Application.genruntimeconfig.cache
